@@ -1,0 +1,6 @@
+wandb/
+.vscode/
+*.ipynb
+*.pth
+.pyc
+__pycache__/
